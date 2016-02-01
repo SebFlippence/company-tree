@@ -1,0 +1,14 @@
+{
+  "name": "company-tree",
+  "version": "0.0.1",
+  "description": "A library to work out the direct and indirect reports to a manager in a company.",
+  "main": "company-tree.js",
+  "scripts": {
+    "test": "node --harmony_default_parameters test/lib/companyTree.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.1.0"
+  }
+}
